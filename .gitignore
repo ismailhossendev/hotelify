@@ -1,5 +1,25 @@
+# Dependencies
 node_modules
-.next/cache 
-node_modules.zip 
-src.zip 
-*.pack 
+
+# Build output
+.next
+out
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Debug logs
+npm-debug.log*
+
+# Misc
+.DS_Store
+*.pem
+
+# Vercel
+.vercel
+
+# Archives
+*.zip
+*.pack
