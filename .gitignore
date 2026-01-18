@@ -1,0 +1,5 @@
+node_modules
+.next/cache 
+node_modules.zip 
+src.zip 
+*.pack 

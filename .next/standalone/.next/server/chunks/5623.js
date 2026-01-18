@@ -1,0 +1,1 @@
+"use strict";exports.id=5623,exports.ids=[5623],exports.modules={5623:(e,s,t)=>{t.d(s,{SystemConfig:()=>d});var i=t(11185),m=t.n(i);let o=new(m()).Schema({key:{type:String,unique:!0,required:!0},value:{type:m().Schema.Types.Mixed}},{timestamps:!0}),d=m().models.SystemConfig||m().model("SystemConfig",o)}};

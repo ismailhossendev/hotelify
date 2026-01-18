@@ -1,0 +1,1 @@
+{"version":1,"functions":{"/api/admin/offers/[id]":{},"/api/admin/templates":{},"/api/public/destinations":{},"/api/admin/offers":{},"/api/public/offers":{},"/api/setup-features":{},"/api/public/hotels/[slug]":{},"/api/vendor/hotels":{},"/api/vendor/offers":{},"/api/public/rooms/[hotelId]":{},"/api/offers/validate":{},"/[slug]":{},"/hotel/[slug]":{}}}
